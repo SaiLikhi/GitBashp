@@ -49,8 +49,6 @@ public void  d1Test()
 }
 //mvn -Dbrowser=firefox -Durl=https://www.flipkart.com/ test
 
-//pushing now 1st push
-//pushing now 2nd push
 
 
 
@@ -64,6 +62,7 @@ public void  d1Test()
 
 
 
-//pull
-//pull back again
+
+
+
 
