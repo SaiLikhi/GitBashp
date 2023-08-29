@@ -8,10 +8,10 @@ public class DemoTest
 public void method1()
 {
 	System.out.println("hi and hello");
-}//push
+}
 	
 
 
 }
-//pull back
-//2nd push
+
+
